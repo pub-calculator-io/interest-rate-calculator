@@ -12,9 +12,8 @@ Free online calculator to estimate the interest rate and total interest cost of 
 3. Activate the [Interest Rate Calculator](https://www.calculator.io/interest-rate-calculator/ "Interest Rate Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_interest_rate_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Interest Rate Calculator to the sidebar through the `Appearance -> Widgets -> Interest Rate Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_interest_rate_calculator(); ?>` to your template where you would like the Interest Rate Calculator to appear.
+* Add the shortcode `[ci_interest_rate_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_interest_rate_calculator(); ?>` to your template where you would like the Interest Rate Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
