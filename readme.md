@@ -1,4 +1,4 @@
-# Interest Rate Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Interest Rate Calculator Widget for WordPress
 
 Free online calculator to estimate the interest rate and total interest cost of an amortized loan with a fixed monthly repayment amount.
 
