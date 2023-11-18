@@ -1,4 +1,4 @@
-=== Interest Rate Calculator by Calculator.iO ===
+=== Interest Rate Calculator ===
 Contributors: calculatorio
 Tags: interest rate calculator, calculate interest rate, annual interest rate, compound interest rate, interest rate formula, simple interest rate, effective interest rate, APR calculator, loan interest rate, mortgage interest rate
 Requires at least: 5.0
