@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Interest Rate Calculator by www.calculator.io
+Plugin Name: CI Interest rate calculator
 Plugin URI: https://www.calculator.io/interest-rate-calculator/
 Description: Free online calculator to estimate the interest rate and total interest cost of an amortized loan with a fixed monthly repayment amount.
 Version: 1.0.0
