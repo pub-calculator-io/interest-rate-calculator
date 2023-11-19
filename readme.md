@@ -7,7 +7,7 @@ Free online calculator to estimate the interest rate and total interest cost of 
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/interest-rate-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /interest-rate-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Interest Rate Calculator](https://www.calculator.io/interest-rate-calculator/ "Interest Rate Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
