@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Interest Rate C
 == Screenshots ==
 
 1. The Interest Rate Calculator Input Form.
-2. The Interest Rate Calculator Calculation Results.
 
 == Installation ==
 

@@ -3,7 +3,6 @@
 Free online calculator to estimate the interest rate and total interest cost of an amortized loan with a fixed monthly repayment amount.
 
 ![Interest Rate Calculator Input Form](/assets/images/screenshot-1.png "Interest Rate Calculator Input Form")
-![Interest Rate Calculator Calculation Results](/assets/images/screenshot-2.png "Interest Rate Calculator Calculation Results")
 
 ## Installation
 
